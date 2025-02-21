@@ -1,6 +1,6 @@
 # Guide
 
-- /datasets: contains the target, test, surrogate, and substitute datasets for this work. Code for performing several tasks related to curating the available data; however, using the existing sets is advisable. **Note:** The folder contents are large.
+- /datasets: contains the target, test, surrogate, and substitute datasets for this work. Code for performing several tasks related to curating the CIFAR-10 dataset; however, using the existing sets is advisable. **Note:** The folder contents are large.
 
 - /models/target-model: contains the target model involved in the work. This model can only be loaded from a package file. The folder also contains logs from running hyperparameter optimization for the target model.
 
